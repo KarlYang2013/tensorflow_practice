@@ -1,3 +1,5 @@
+#coding:utf-8
+#原始论文：https://arxiv.org/abs/1704.05194
 import tensorflow as tf
 import time
 from sklearn.metrics import roc_auc_score
